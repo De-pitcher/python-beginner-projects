@@ -28,4 +28,4 @@ guide [HERE](https://github.com/De-pitcher/python-beginner-projects/blob/main/CO
 ## Projects
 | SR No | Project                                                                                                                                           | Author                                                      |
 |-------|---------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
-| 1     | [phone_num_and_email_extractor](https://github.com/De-pitcher/python-beginner-projects/tree/main/phone_num_and_email_extractor)                                    | [Lary Mak](https://github.com/De-pitcher)                      |
+| 1     | [phone_num_and_email_extractor](https://github.com/De-pitcher/python-beginner-projects/tree/main/phone_num_and_email_extractor)                                    | [Noel Emmanuel](https://github.com/De-pitcher)                      |
