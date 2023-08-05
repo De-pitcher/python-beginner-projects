@@ -9,8 +9,7 @@ This script uses a regular expression that can detect dates in the DD/MM/YYYY fo
 ## 🌟 How to run
 
 - Navigate to the project directory
-- #TODO: how the script should be ran.
-- Run script
+- Run script and follow the prompt
 
 
 ## 🤖 Author
